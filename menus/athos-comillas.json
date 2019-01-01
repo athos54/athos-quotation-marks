@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle athos-comillas",
+        "command": "athos-comillas:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "athos-comillas",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "athos-comillas:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

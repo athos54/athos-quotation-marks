@@ -1,0 +1,21 @@
+{
+  "name": "athos-quotation-marks",
+  "main": "./lib/athos-comillas",
+  "version": "1.0.0",
+  "description": "Change quotation marks: 'selected text' to \"selected text\" to selected text to 'selected text'",
+  "keywords": [
+    "cambiar comillas",
+    "quotation marks",
+    "athos"
+  ],
+  "activationCommands": {
+    "atom-workspace": "athos-comillas:toggle"
+  },
+  "repository": "https://github.com/atom/athos-comillas",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
