@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "athos-comillas:toggle"
   },
-  "repository": "https://github.com/atom/athos-comillas",
+  "repository": "https://github.com/athos54/athos-quotation-marks.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
