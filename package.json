@@ -1,7 +1,7 @@
 {
   "name": "athos-quotation-marks",
   "main": "./lib/athos-comillas",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Change quotation marks: 'selected text' to \"selected text\" to selected text to 'selected text'",
   "keywords": [
     "cambiar comillas",
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
